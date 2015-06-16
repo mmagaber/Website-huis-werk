@@ -1,0 +1,23 @@
+
+
+.blog {
+        background-color: lightblue;
+        border: solid gray 2px;
+        padding: 7px;
+
+}
+@media all and  (max-width: 900px){
+    .blog {
+        background-color: lightblue;
+        border: solid gray 2px;
+        padding: 7px;
+        font-size: small !important;
+}}
+.user{
+    font-size: x-small;
+    color: gray;
+    margin-bottom: -15px;
+}
+.titel{
+    font-weight: bolder;
+}
